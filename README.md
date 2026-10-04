@@ -1,4 +1,4 @@
-﻿# 🛡️ Hybrid Phishing Threat Analyzer
+﻿# Hybrid Phishing Threat Analyzer
 
 A hybrid cybersecurity application for real-time phishing detection combining standard Machine Learning (TF-IDF + Random Forest) with Google Gemini AI.
 
